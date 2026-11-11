@@ -1,3 +1,5 @@
+[简体中文](./README.zh-CN.md) | **English**
+
 # Design Rationale for `AGENTS.md` and the Knowledge Project Steward Skill
 
 ## 1. Background
