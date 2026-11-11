@@ -1,4 +1,3 @@
-# AGENTS\.md 与 Knowledge Project Steward 的设计说明
 
 ## 一、设计背景
 
